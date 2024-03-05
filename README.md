@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/Mr-Kasa?logo=github&style=for-the-b
 
 <a href="https://github.com/Mr-Kasa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kasa&langs_count=10&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br><br>
-## Top Repositories :trophy:
+## _Top Repositories_ :trophy:
 <br>
 <div width="100%" align="center"><a href="https://github.com/Mr-Kasa/BUHKAS465_WFO2401_GroupB_BuhleKasa_SDF11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Kasa&repo=BUHKAS465_WFO2401_GroupB_BuhleKasa_SDF11&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
