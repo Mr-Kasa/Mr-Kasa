@@ -19,7 +19,7 @@ I am a junior web developer. I am skilled with HTML, CSS and a bit of JavaScript
                     
                   ### Socials
                   
-                  
+   HTML               
                 <p align="left">
                       <a href="https://discord.com/users/buhlekasa101" target="_blank" rel="noreferrer">
                     <picture>
