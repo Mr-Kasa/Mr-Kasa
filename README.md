@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/Mr-Kasa?logo=github&style=for-the-b
 <br>
 <p align="left"><a href="https://www.facebook.com/Buhle Litha Kasa" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></picture></a><a href="https://www.github.com/Mr-Kasa" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.linkedin.com/in/buhle-kasa-3a03b0298" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a></p>
 <br><br>
-<b>My GitHub Stats</b> :chart_with_upwards_trend: 
+<strong>My GitHub Stats</strong> :chart_with_upwards_trend: 
 <br>
 <a href="http://www.github.com/Mr-Kasa"><img src="https://github-readme-stats.vercel.app/api?username=Mr-Kasa&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=134e4a&hide_border=true&show_icons=true" alt="Mr-Kasa's GitHub stats" /></a>
 
@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/Mr-Kasa?logo=github&style=for-the-b
 
 <a href="https://github.com/Mr-Kasa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kasa&langs_count=10&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br><br>
-## _Top Repositories_ :trophy:
+## Top Repositories :trophy:
 <br>
 <div width="100%" align="center"><a href="https://github.com/Mr-Kasa/BUHKAS465_WFO2401_GroupB_BuhleKasa_SDF11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Kasa&repo=BUHKAS465_WFO2401_GroupB_BuhleKasa_SDF11&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
