@@ -13,7 +13,7 @@ I am a junior web developer. I am skilled with HTML, CSS and a bit of JavaScript
 * 🤝  I'm open to collaborating on e-commerce projects or any tech business ventures.
 * ⚡  Currently working to improve my resume.
 
-<a href="https://www.github.com/Mr-Kasa" target="_blank" rel="noreferrer"><img                                                  <!--Link to github followers-->
+<a href="https://www.github.com/Mr-Kasa" target="_blank" rel="noreferrer"><img                                                  
 src="https://img.shields.io/github/followers/Mr-Kasa?logo=github&style=for-the-badge&color=84cc16&labelColor=134e4a" /></a>
 ### Skills
 
