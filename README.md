@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Buhle Litha Kasa     <!--Waving hand emoji-->
 ========================================================================================================================================
 
-Web Developer
+Web Developer :computer:
 -------------
 
 I am a junior web developer. I am skilled with HTML, CSS and a bit of JavaScript.
